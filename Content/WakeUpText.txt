@@ -1,0 +1,12 @@
+[Protag bolts upright, there is an alarm clock going off in the background]
+
+Protag (Breathing heavily, thinking to self): I woke up feeling exhausted, but that's nothing new.
+	I keep having the same nightmare, almost every night.
+	It's the same thing every time, as much as I wish I could change what happened.
+	Again, I spent too much time just trying to shake off those awful feelings...
+	I'm going to be late to class if I don't hurry.
+
+[Protag gets up from the bed, standing upright in his simple bedroom]
+
+Interaction Text:
+
