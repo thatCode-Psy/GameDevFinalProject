@@ -1,0 +1,11 @@
+[Scene fades in to the Chemistry Lab. The room is simple with torso-height tables. The Chemistry Professor stands at the front of the class
+while all the students stand at their stations. Protag is also at his station. Identical chemistry sets are set up at each station.]
+
+Prof.: Okay! I won't waste your time too much today, since we're right in the middle of that big lab procedure. Have at it.
+
+[The player will be prompted to interact with the chemistry equipment. This should include an animation or two.]
+
+
+
+[Eventually, someone behind the player drops a beaker, prompting the same glass breaking sound as from the nightmare. The player shrinks down to child height and the lighting in the room
+changes while the scene shifts back to the nightmare scene. This plays out similar to the first, except the player is can only attempt the same escape option as the first time.]
