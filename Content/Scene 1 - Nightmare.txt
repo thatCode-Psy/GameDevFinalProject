@@ -1,0 +1,23 @@
+[The player is a child in their bedroom, facing away from the door out to the hall. The room has a bed with a plain set of sheets and a stuffed bear on it. Next to the bed is a small
+nightstand with a lamp and a photo of a young couple, smiling. There is also a toybox with a small amount of simple toys. The player hears glass break in the distance behind them.
+The player is now free to explore the room as stomping footsteps approach the room.]
+
+Interaction Text: 
+
+Bear - My stuffed bear, Teddy. Dad eventually tore him open and threw him in the trash.
+
+Wall - Dad's favorite color. I can't stand to look at it.
+
+Toy Car - A toy car. Unfortunately for me, they are very popular.
+
+Broken Bottle - My father was a drinker as long as I could remember. He sometimes threw bottles in anger in my room and just left them there.
+
+
+
+[After one minute, the footsteps stop, and the door into the room slams open, revealing a slightly older,
+tubbier and more dirty version of the man in the photo. He turns toward the player as the player's camera turns to face him. He starts to approach.]
+
+Father (Reaching out to grab at the player): You're the reason she's dead, you stupid leech!
+
+[The man grabs the player, throwing them to the ground.]
+
